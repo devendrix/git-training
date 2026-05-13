@@ -9,3 +9,35 @@ Phone: +917569897020
 Email: bavisettidevendra@gmail.com
 Address: Vijayawada, Andhra Pradesh, India
 Freelance: Available
+"skills": [
+        {
+            "name": "HTML",
+            "percent": 95,
+            "color": "bg-primary"
+        },
+        {
+            "name": "CSS",
+            "percent": 85,
+            "color": "bg-warning"
+        },
+        {
+            "name": "JavaScript",
+            "percent": 95,
+            "color": "bg-primary"
+        },
+        {
+            "name": "Python",
+            "percent": 75,
+            "color": "bg-warning"
+        },
+        {
+            "name": "Java",
+            "percent": 75,
+            "color": "bg-primary"
+        },
+        {
+            "name": "SQL",
+            "percent": 85,
+            "color": "bg-warning"
+        }
+    ],
