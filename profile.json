@@ -1,0 +1,139 @@
+{
+    "name": "Bavisetti  Devendra",
+    "role": "Software Engineer \/ IoT Developer",
+    "skillss": "Python, Java, C, IoT Systems, Data Analytics, Web Development, Machine Learning",
+    "me": "Results-driven Computer Science Engineering (IoT) undergraduate with strong foundations in Python, Java, IoT systems, and data analytics. Experienced in developing scalable IoT and machine learning projects, web applications, and real-world problem-solving through internships and community initiatives.",
+    "aboutimg": "img\/profile.jpeg",
+    "about": {
+        "description": "I am a Computer Science Engineering (IoT) student passionate about building real-world solutions using IoT, Machine Learning, and Web Technologies. I have hands-on experience in developing smart systems, predictive models, and web applications.",
+        "name": "Bavisetti Devendra ",
+        "birthday": "29-06-2005",
+        "degree": "B.Tech CSE (IoT)",
+        "experience": "Fresher",
+        "phone": "+917569897020",
+        "email": "bavisettidevendra@gmail.com",
+        "address": "Vijayawada, Andhra Pradesh, India",
+        "freelance": "Available"
+    },
+    "skills": [
+        {
+            "name": "HTML",
+            "percent": 95,
+            "color": "bg-primary"
+        },
+        {
+            "name": "CSS",
+            "percent": 85,
+            "color": "bg-warning"
+        },
+        {
+            "name": "JavaScript",
+            "percent": 95,
+            "color": "bg-primary"
+        },
+        {
+            "name": "Python",
+            "percent": 75,
+            "color": "bg-warning"
+        },
+        {
+            "name": "Java",
+            "percent": 75,
+            "color": "bg-primary"
+        },
+        {
+            "name": "SQL",
+            "percent": 85,
+            "color": "bg-warning"
+        }
+    ],
+    "education": [
+        {
+            "yearofpassout": "2022 - 2026",
+            "graduation": "B.Tech  Computer Science Engineering (IoT)",
+            "details": "Potti Sriramulu Chalavadi Mallikarjuna Rao College of Engineering | CGPA: 7.62"
+        },
+        {
+            "yearofpassout": "2020 - 2022",
+            "graduation": "Intermediate (MPC)",
+            "details": "NRI Junior College | 70%"
+        },
+        {
+            "yearofpassout": "2020",
+            "graduation": "SSC",
+            "details": "Subhodaya High School | 94%"
+        }
+    ],
+    "experience": [
+        {
+            "title": "IoT Intern",
+            "company": "Inversion X SkillForge",
+            "duration": "2025",
+            "exp_description": "Worked with Arduino, Raspberry Pi, and sensors to build real-time IoT applications. Improved troubleshooting and analytical skills."
+        },
+        {
+            "title": "Web Development Intern",
+            "company": "Swecha (Open Source)",
+            "duration": "2024",
+            "exp_description": "Contributed to open-source web projects, fixed bugs, enhanced features, and improved documentation."
+        }
+    ],
+    "projects": [
+        {
+            "icon": "fa-car",
+            "title": "Smart Parking System",
+            "description": "Developed an IoT-based parking solution using NodeMCU and sensors with real-time monitoring using Firebase and Blynk."
+        },
+        {
+            "icon": "fa-cloud",
+            "title": "Rainfall Prediction",
+            "description": "Built ML models using Linear Regression, Random Forest, and LSTM to predict rainfall for agriculture and disaster management."
+        },
+        {
+            "icon": "fa-gamepad",
+            "title": "Game Haven Website",
+            "description": "Developed a responsive gaming website using WordPress with MySQL integration and optimized performance."
+        }
+    ],
+    "portfolio": [
+        {
+            "image": "img\/portfolio-1.jpg",
+            "filter": "first"
+        },
+        {
+            "image": "img\/portfolio-2.webp",
+            "filter": "second"
+        },
+        {
+            "image": "img\/portfolio-3.webp",
+            "filter": "first"
+        },
+        {
+            "image": "img\/portfolio-4.webp",
+            "filter": "second"
+        }
+    ],
+    "certifications": [
+        "Artificial Intelligence Fundamentals \u2013 IBM",
+        "Data Analytics \u2013 Deloitte",
+        "Data Science & Analytics \u2013 HP",
+        "Python Programming \u2013 HackerRank",
+        "Generative AI Content Creation \u2013 Adobe",
+        "Industry 4.0 & Industrial IoT \u2013 NPTEL",
+        "Employability Skills \u2013 Wadhwani Foundation"
+    ],
+    "languages": [
+        "Telugu (Native)",
+        "English (Fluent)"
+    ],
+    "contact": {
+        "name": "Bavisetti Devendra",
+        "role": "Software \/ IoT Developer",
+        "email": "bavisettidevendra@gmail.com",
+        "phone": "+91 7569897020",
+        "address": "Vijayawada, Andhra Pradesh, India",
+        "social": {
+            "linkedin": "https:\/\/linkedin.com\/in\/bavisetti-devendra"
+        }
+    }
+}
