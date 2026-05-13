@@ -40,4 +40,4 @@ Freelance: Available
             "percent": 85,
             "color": "bg-warning"
         }
-    ],
+    ],Main
